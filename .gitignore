@@ -1,0 +1,24 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/EMS.API/obj/Debug/net8.0/EMS.API.AssemblyInfo.cs
+/.vs/EMS/FileContentIndex/f0e2b1c0-0631-4288-9afe-3b4eccf38fb0.vsidx
+/EMS.API/obj/Debug/net8.0/EMS.API.AssemblyInfoInputs.cache
+/EMS.API/obj/Debug/net8.0/EMS.API.GeneratedMSBuildEditorConfig.editorconfig
+/EMS.API/obj/EMS.API.csproj.nuget.dgspec.json
+/EMS.API/obj/project.assets.json
+/EMS.API/obj/project.nuget.cache
+/EMS.Application/obj/Debug/net8.0/EMS.Application.AssemblyInfo.cs
+/EMS.Application/obj/Debug/net8.0/EMS.Application.GeneratedMSBuildEditorConfig.editorconfig
+/EMS.Application/obj/Debug/net8.0/EMS.Application.AssemblyInfoInputs.cache
+/EMS.Application/obj/EMS.Application.csproj.nuget.dgspec.json
+/EMS.Application/obj/project.assets.json
+/EMS.Application/obj/project.nuget.cache
+/EMS.Domain/obj/EMS.Domain.csproj.nuget.dgspec.json
+/EMS.Domain/obj/project.nuget.cache
+/EMS.Infrastructure/obj/Debug/net8.0/EMS.Infrastructure.AssemblyInfo.cs
+/EMS.Infrastructure/obj/Debug/net8.0/EMS.Infrastructure.AssemblyInfoInputs.cache
+/EMS.Infrastructure/obj/EMS.Infrastructure.csproj.nuget.dgspec.json
+/EMS.Infrastructure/obj/project.assets.json
+/EMS.Infrastructure/obj/project.nuget.cache
